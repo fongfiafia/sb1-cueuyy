@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --notion-black: #37352f;
+  --notion-white: #ffffff;
+  --notion-gray: #f1f1ef;
+  --notion-blue: #2eaadc;
+  --notion-red: #eb5757;
+  --notion-yellow: #f2c94c;
+  --notion-green: #27ae60;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  color: var(--notion-black);
+  background-color: var(--notion-white);
+}

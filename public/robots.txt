@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cerulean-marzipan-2876fa.netlify.app/sitemap.xml
+Sitemap: https://cerulean-marzipan-expense-record.netlify.app/sitemap.xml

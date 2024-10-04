@@ -13,4 +13,5 @@ export default defineConfig({
       },
     },
   },
+  publicDir: 'public', // 确保 public 文件夹中的文件被复制到构建输出
 })

@@ -1,0 +1,4 @@
+[[headers]]
+  for = "/googled06d927e7d18fc29.html"
+  [headers.values]
+    X-Robots-Tag = "noindex"

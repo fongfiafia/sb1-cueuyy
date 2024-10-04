@@ -37,6 +37,12 @@ const HomePage: React.FC = () => {
         <PieChart className="w-8 h-8 text-[#37352f] mr-2" />
         <span className="text-[#37352f] font-semibold">查看消费记录</span>
       </Link>
+      <ins className="adsbygoogle"
+        style={{ display: 'block' }}
+        data-ad-client="ca-pub-1362518378038131"
+        data-ad-slot="YOUR_AD_SLOT_ID"
+        data-ad-format="auto"
+        data-full-width-responsive="true"></ins>
     </div>
   );
 };
